@@ -3,6 +3,9 @@
 AuthCraft API is a production-ready Node.js authentication and user management backend 
 built with Express, MongoDB, and JWT.
 
+## Live Demo
+🔗 https://auth-craft-api.vercel.app
+
 ## Features
 - User registration & login
 - JWT-based authentication
