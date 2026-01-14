@@ -6,6 +6,16 @@ built with Express, MongoDB, and JWT.
 ## Live Demo
 🔗 https://auth-craft-api.vercel.app
 
+
+## API Demo
+A public Postman collection is included to demonstrate:
+- User registration
+- User login (JWT)
+- Get logged-in user profile
+- Update profile
+
+Admin APIs are implemented and available on request.
+
 ## Features
 - User registration & login
 - JWT-based authentication
